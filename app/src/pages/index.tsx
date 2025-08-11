@@ -371,7 +371,7 @@ const Page: React.FC = () => {
                 <div className="p-8 space-y-8">
                 <div className="text-center space-y-6">
                     <div className="w-24 h-24 border border-gray-700 mx-auto flex items-center justify-center group hover:border-white transition-colors duration-300">
-                        <img src="https://i.pinimg.com/736x/93/3b/5c/933b5c9cf4702279ab8eeae238064505.jpg" alt="Linhadefuga" className="w-20 h-20 group-hover:scale-110 transition-transform duration-300" />
+                        <img src="https://i.pinimg.com/736x/f5/a5/02/f5a502d1b91449c904f298a7b0a1a779.jpg" alt="Linhadefuga" className="w-20 h-20 group-hover:scale-110 transition-transform duration-300" />
                     </div>
                     <div className="space-y-2">
                     <h3 className="text-xl font-light tracking-wide">@linha_de_fuga__</h3>

@@ -54,7 +54,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
         />
         <meta
           property="og:image"
-          content="https://linhadefuga.dev/imagens/banner-og.jpg"
+          content="https://i.pinimg.com/736x/f5/a5/02/f5a502d1b91449c904f298a7b0a1a779.jpg"
         />
 
         {/* Twitter */}
@@ -64,10 +64,10 @@ export function Layout({ children }: { children: React.ReactNode }) {
           name="twitter:description"
           content="Explore a essência dos motores. JDM, Muscle, Off-Road e tudo que desafia o comum."
         />
-        <meta name="twitter:image" content="https://linhadefuga.dev/imagens/banner-og.jpg" />
+        <meta name="twitter:image" content="https://i.pinimg.com/736x/f5/a5/02/f5a502d1b91449c904f298a7b0a1a779.jpg" />
 
         {/* Favicon */}
-        <link rel="icon" href="https://i.pinimg.com/736x/93/3b/5c/933b5c9cf4702279ab8eeae238064505.jpg" type="image/png" />
+        <link rel="icon" href="https://i.pinimg.com/736x/f5/a5/02/f5a502d1b91449c904f298a7b0a1a779.jpg" type="image/png" />
 
         {/* Manifest */}
         <link rel="manifest" href="/manifest.json" />
